@@ -37,4 +37,4 @@ JavaScript: Interactivity and animations
 
 🚀 Deployment
 
-This portfolio is hosted on [GitHub Pages/Netlify/Vercel]. You can view it here: 🔗 Live group611.netlify.app
+This portfolio is hosted on [GitHub Pages/Netlify/Vercel]. You can view it here: 🔗 Live https://hackathon-group-611.netlify.app/
